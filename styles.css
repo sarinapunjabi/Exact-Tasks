@@ -1,0 +1,126 @@
+.header {
+  color:antiquewhite;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.subheader {
+  color:antiquewhite;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+  background-color: skyblue;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: antiquewhite;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div.container {
+  text-align: center;
+}
+
+ol.myol {
+  display: inline-block;
+  text-align: left;
+  color: antiquewhite;
+}
+
+
+.navigation {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.navbar {
+  display: -moz-grid-line;
+  width: 300px;
+  height: 40px;
+  padding: 0;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar > div > a {
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar > div {
+  height: 30px;
+  line-height: 30px;
+  background-color: seashell;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: palevioletred;
+  border: 1px palevioletred;
+  border-radius: 10px;
+  text-align: center;
+  margin: 5px;
+
+}
+
+.navbar > div:hover {
+  background-color: bisque;
+}
+
+
+
+
+
+
+
+
+.navigation2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.navbar2 {
+  display: -moz-grid-line;
+  width: 200px;
+  height: 20px;
+  padding: 0;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar2 > div > a {
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar2 > div {
+  height: 23px;
+  line-height: 23px;
+  background-color: seashell;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: palevioletred;
+  border: 1px palevioletred;
+  border-radius: 10px;
+  text-align: center;
+  margin: 5px;
+
+}
+
+.navbar2 > div:hover {
+  background-color: bisque;
+}
